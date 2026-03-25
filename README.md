@@ -13,7 +13,7 @@ Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environme
 
 1. install dependencies through ```requirements.txt```.
 
-2. Pass two ```.pkl``` files as function parameters on the ```duel_ai``` program.
+2. Pass two ```.pkl``` files as function parameters on Line 87 of the ```duel_ai``` program.
 
 **TO TRAIN AI**
 
