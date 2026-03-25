@@ -1,5 +1,5 @@
 # NEAT-Powered AI Agents through the game of Pong
-Training &amp; Dueling Programs for NEAT-Python optimized AI Agents through Scaling Difficulty Environments
+Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environments of Scaling Difficulty.
 
 **Instructions:**
 
