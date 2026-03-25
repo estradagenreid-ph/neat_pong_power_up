@@ -1,0 +1,8 @@
+pygame
+sys
+random
+math
+neat-python
+os
+time
+pickle
