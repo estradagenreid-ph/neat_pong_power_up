@@ -7,7 +7,7 @@ Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environme
 
 ```pong_final_power_up.py``` is the NEAT-AI training program that takes parameters from ```config-final_power_up.txt```.
 
-```duel_ai``` is a Vibe Coded Program with Google's Gemini, which allows importing of AI-agents through ```.pkl``` files and duel up against each other. Both NEAT-networks run the current network topology, but don't mutate. This program also imports classes from ```pong_final_power_up.py``` so make sure they are in the same folder.
+```duel_ai``` is a Vibe Coded Program with Google's Gemini, which allows importing of AI-agents through ```.pkl``` files to be dueled up against each other. Both NEAT-networks run the current network topology, but don't mutate. This program also imports classes from ```pong_final_power_up.py``` so make sure they are in the same folder.
 
 **TO DUEL AI**:
 
@@ -15,7 +15,7 @@ Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environme
 
 2. Pass two ```.pkl``` files as function parameters on Line 87 of the ```duel_ai``` program.
    
-3. Make sure ```pong_final_power_up.py``` and ```config-final_power_up.txt``` are in the same folder as this file, as classes and parameters are taken from these programs.
+3. Make sure ```pong_final_power_up.py``` and ```config-final_power_up.txt``` are in the same folder as this program, as classes and parameters are taken from these programs.
    
 4. Run the ```duel_ai``` program.
 
@@ -23,6 +23,6 @@ Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environme
 
 1. Set Fitness, Topology, & Evolutionary Parameteres on ```config-final_power_up.txt```.
    
-3. Configure ```pong_final_power_up.py``` accordingly, then run the program. You may press the "F" key to pass 1000 frames into the program, speeding up the process. Then you can press "S" to return to 60 FPS.
+2. Configure ```pong_final_power_up.py``` accordingly, then run the program. You may press the "F" key to pass 1000 frames into the program, speeding up the process. Then you can press "S" to return to 60 FPS.
 
 DISCLAIMER: Some Code is Vibe Coded and aligns with Educational Requirements for the Machine Learning Course at University Canada West. This project was done for Educational Purposes only. 
