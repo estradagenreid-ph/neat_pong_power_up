@@ -30,5 +30,7 @@ DISCLAIMER: Some Code is Vibe Coded and aligns with Educational Requirements for
 Useful Links:
 
 NEAT-Python Documenation - https://neat-python.readthedocs.io/en/latest/
+
 Tech with Tim NEAT Pong Video - https://www.youtube.com/watch?v=2f6TmKm7yx0&t=57s
+
 NEAT Algorithm Visually explained by David Schäfer - https://www.youtube.com/watch?v=yVtdp1kF0I4&t=26s
