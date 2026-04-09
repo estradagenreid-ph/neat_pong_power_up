@@ -26,3 +26,9 @@ Training &amp; Dueling Programs for NEAT-Python optimized AI Agents in Environme
 2. Configure ```pong_final_power_up.py``` accordingly, then run the program. You may press the "F" key to pass 1000 frames into the program, speeding up the process. Then you can press "S" to return to 60 FPS.
 
 DISCLAIMER: Some Code is Vibe Coded and aligns with Educational Requirements for the Machine Learning Course at University Canada West. This project was done for Educational Purposes only. 
+
+Useful Links:
+
+NEAT-Python Documenation - https://neat-python.readthedocs.io/en/latest/
+Tech with Tim NEAT Pong Video - https://www.youtube.com/watch?v=2f6TmKm7yx0&t=57s
+NEAT Algorithm Visually explained by David Schäfer - https://www.youtube.com/watch?v=yVtdp1kF0I4&t=26s
