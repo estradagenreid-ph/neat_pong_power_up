@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific training output (keep the published GEN example genomes)
+/best_ai.pkl
+/pong-checkpont-*
+/pong-checkpoint-*
+/neat-checkpoint-*
+
+# Additional local configuration and credentials
+.env.*
+!.env.example
+!.env.sample
+.streamlit/secrets.toml
+credentials.json
+token.json
+*.pem
+*.key
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
